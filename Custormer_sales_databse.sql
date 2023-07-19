@@ -1,3 +1,8 @@
+
+-- Link to the data used 
+-- https://github.com/vickbrownk/Portfolio_Projects/blob/main/test%20data.csv
+
+
 -- Script to Create the view
 
 create view data as
